@@ -1,6 +1,6 @@
-#Cortando raíces
+# Cortando raíces
 
-### Introducción
+## Introducción
 
 En la reserva ecológica El Cielo existe un único ejemplar de un preciado lirio acuático cuyas raíces pueden curar cualquier mal. Las raíces crecen completamente hacia abajo y los cuidadores de la misma buscan cortar únicamente la cantidad de milímetros de raíz requerida para curar el mal de la persona afligida, para esto, ellos se sumergen en el agua y con una tijera especial cortan todas las ramificaciones de la raíz simultáneamente a una misma altura.
 

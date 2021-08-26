@@ -1,6 +1,6 @@
 #Top Tamaulipas
 
-###Introducción
+## Introducción
 
 Este año el hotel asignado para el Top Tamaulipas está en pleno Centro de Ciudad Victoria. Es de sabido por todos que el centro de Ciudad Victoria está infestada de parquímetros y también que los programadores somos nocturnos, y por lo tanto no nos despertamos temprano.
 
@@ -10,19 +10,19 @@ Cuando sólo un camioncito está demorado, entonces su conductor debe de pagar X
 
 Dados los números X, Y, y Z, al igual que el intervalo que estarán esperando los conductores, calcule cuánto dinero deberá de pagar el Cinvestav por parquímetros.
 
-###Entrada
+### Entrada
 
 La primera línea contiene tres enteros X, Y, y Z (1 ≤ Z ≤ Y ≤ X ≤ 100), que representa el costo que tendrá que pagar cada conductor.
 
 Cada una de las siguientes tres líneas contiene dos enteros cada una, que corresponde a los tiempos de entrada y de salida de los camioncitos (en minutos). La llegada, siempre será menor a la salida. . Todos estarán indizados entre 1 y 100.
 
-###Salida
+### Salida
 
 El costo total que el Cinvestav-Tamaulipas deberá pagar.
 
-###Ejemplos
+### Ejemplos
 
-###Ejemplo 1 
+### Ejemplo 1 
 
 -------------
 Entrada | Salida
@@ -33,7 +33,7 @@ Entrada | Salida
 2 8
 -------------
 
-###Ejemplo 2
+### Ejemplo 2
 -------------
 Entrada | Salida
 =============
